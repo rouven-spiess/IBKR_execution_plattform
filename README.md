@@ -3,6 +3,9 @@
 ## Introduction
 Testing options for HFT on IBKR TWS Api with an objective of several hundreds of trades/second
 
+## Inspiration
+Python for Algorithmic Trading Cookbook
+https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook
 
 ## Testing
 
